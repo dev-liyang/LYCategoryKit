@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LYCategoryKit_Example' do
+  pod 'LYCategoryKit', :path => '../'
+
+  target 'LYCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
