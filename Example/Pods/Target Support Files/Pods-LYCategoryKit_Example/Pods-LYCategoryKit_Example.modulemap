@@ -1,0 +1,6 @@
+framework module Pods_LYCategoryKit_Example {
+  umbrella header "Pods-LYCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

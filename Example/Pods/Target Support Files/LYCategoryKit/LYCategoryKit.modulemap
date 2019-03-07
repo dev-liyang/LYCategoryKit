@@ -1,0 +1,6 @@
+framework module LYCategoryKit {
+  umbrella header "LYCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

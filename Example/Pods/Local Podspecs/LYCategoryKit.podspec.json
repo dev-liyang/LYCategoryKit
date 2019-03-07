@@ -1,0 +1,22 @@
+{
+  "name": "LYCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LYCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/944801216@qq.com/LYCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "944801216@qq.com": "944801216@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/944801216@qq.com/LYCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYCategoryKit/Classes/**/*"
+}
